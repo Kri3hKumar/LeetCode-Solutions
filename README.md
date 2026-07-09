@@ -9,23 +9,6 @@ The purpose of this repository is to:
 - Track my progress consistently
 - Prepare for coding interviews and placements
 
----
-
-## Repository Structure
-
-```
-LeetCode/
-│
-├── Arrays/
-├── Strings/
-├── Linked Lists/
-├── Stacks/
-├── Queues/
-├── Trees/
-├── Graphs/
-├── Dynamic Programming/
-└── ...
-```
 
 Each problem folder contains:
 - `solution.cpp`
