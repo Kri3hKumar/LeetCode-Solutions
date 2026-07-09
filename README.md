@@ -1,28 +1,54 @@
 # LeetCode-Solutions
-# 136. Single Number
+# LeetCode Solutions
 
-## Problem Statement
+This repository contains my solutions to LeetCode problems as I learn and practice Data Structures and Algorithms (DSA).
 
-Given a non-empty array of integers `nums`, every element appears twice except for one. Find that single element.
+The purpose of this repository is to:
+- Strengthen problem-solving skills
+- Learn efficient algorithms and data structures
+- Track my progress consistently
+- Prepare for coding interviews and placements
 
-**LeetCode:** 136. Single Number
+---
 
-## Approach
+## Repository Structure
 
-This solution uses the **Bitwise XOR (`^`)** operator.
+```
+LeetCode/
+│
+├── Arrays/
+├── Strings/
+├── Linked Lists/
+├── Stacks/
+├── Queues/
+├── Trees/
+├── Graphs/
+├── Dynamic Programming/
+└── ...
+```
 
-### Key Idea
+Each problem folder contains:
+- `solution.cpp`
+- `README.md` explaining the approach, algorithm, and complexity
 
-The XOR operator has two important properties:
+---
 
-- `a ^ a = 0`
-- `a ^ 0 = a`
+## Languages Used
 
-Since every number except one appears twice, all duplicate numbers cancel each other out when XORed together. The remaining value is the unique element.
+- C++
 
-## Algorithm
+---
 
-1. Initialize `ans = 0`.
-2. Traverse the array.
-3. XOR each element with `ans`.
-4. Return `ans`.
+## Goal
+
+My aim is to solve LeetCode problems consistently while improving my understanding of Data Structures and Algorithms.
+
+This repository will continue to grow as I learn new concepts and solve more problems.
+
+---
+
+## Author
+
+**Krish Kumar**
+
+Happy Coding! 
