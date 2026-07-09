@@ -1,37 +1,55 @@
-# LeetCode-Solutions
 # LeetCode Solutions
 
-This repository contains my solutions to LeetCode problems as I learn and practice Data Structures and Algorithms (DSA).
+Welcome to my LeetCode solutions repository!
 
-The purpose of this repository is to:
-- Strengthen problem-solving skills
-- Learn efficient algorithms and data structures
-- Track my progress consistently
-- Prepare for coding interviews and placements
+This repository contains my solutions to LeetCode problems as I learn Data Structures and Algorithms (DSA) using C++.
 
-
-Each problem folder contains:
-- `solution.cpp`
-- `README.md` explaining the approach, algorithm, and complexity
+Since I am currently a beginner, the problems are organized by their problem number and title. As I gain more experience, I may reorganize this repository by topics such as Arrays, Strings, Trees, Graphs, etc.
 
 ---
 
-## Languages Used
+## Repository Structure
+
+Each problem has its own folder containing:
+
+- `solution.cpp` – My solution to the problem
+- `README.md` – Problem explanation, approach, and time/space complexity
+
+Example:
+
+```
+LeetCode/
+│
+├── 1-two-sum/
+│   ├── solution.cpp
+│   └── README.md
+│
+├── 136-single-number/
+│   ├── solution.cpp
+│   └── README.md
+│
+└── ...
+```
+
+---
+
+## Language
 
 - C++
 
 ---
 
-## Goal
+## Purpose
 
-My aim is to solve LeetCode problems consistently while improving my understanding of Data Structures and Algorithms.
-
-This repository will continue to grow as I learn new concepts and solve more problems.
+- Improve problem-solving skills
+- Learn Data Structures and Algorithms
+- Track my learning journey
+- Prepare for coding interviews
 
 ---
 
-## Author
+## Note
 
-**Krish Kumar**
+This repository is continuously updated as I solve more LeetCode problems and improve my understanding of algorithms and data structures.
 
 Happy Coding! 
